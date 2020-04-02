@@ -1,5 +1,4 @@
 .quire-cover__hero {
-  background-color: rgb(2, 126, 215);
-  background-image: -webkit-gradient(linear, left top, right top, from(#6A8EB8), to(#CF4747));
-  background-image: linear-gradient(90deg, rgb(2, 126, 215), #e39e4d);
+  background-color: silver;
+  background-image: none;
 }
