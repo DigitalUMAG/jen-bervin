@@ -5,7 +5,7 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: pattern-spiral-overlay.png
+image: 1_Silk_Poem_Strand.png
 ---
 
 Silk’s cultural history spans more than 5,000 years. Examples of sericulture appear in the Chinese archaeological record as early as the third millennium bce, and silk fabrics excavated from sites have been dated to at least the Shang dynasty (1600–1046 bce).

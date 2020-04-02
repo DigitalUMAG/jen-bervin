@@ -32,10 +32,10 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
+  - name: University Museum and Gallery, University of Hong Kong
+    location: Hong Kong
     url:
-    logo: logo-getty.png
+    logo: umag-logo.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -67,7 +67,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: © 2020 University Museum and Gallery, University of Hong Kong
 
 license:
   name: Creative Commons Attribution 4.0 International License
