@@ -1,51 +1,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/contents/</loc>
+    <loc>/contents/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/intro/</loc>
+    <loc>/intro/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/essay/</loc>
+    <loc>/essay/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/catalogue/</loc>
+    <loc>/catalogue/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/catalogue/1/</loc>
+    <loc>/catalogue/1/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/catalogue/2/</loc>
+    <loc>/catalogue/2/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/catalogue/3/</loc>
+    <loc>/catalogue/3/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/catalogue/4/</loc>
+    <loc>/catalogue/4/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/bibliography/</loc>
+    <loc>/bibliography/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/contributors/</loc>
+    <loc>/contributors/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/about/</loc>
+    <loc>/about/</loc>
   </url>
   
 </urlset>
