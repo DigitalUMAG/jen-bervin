@@ -1,4 +1,17 @@
 .quire-cover__hero {
-  background-color: silver;
+  background-color: rgba(192,192,192);
   background-image: none;
+}
+
+#site-menu  {
+  background-color: rgba(192,192,192);
+  background-image: url('../img/silk_poem_strand.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  border-left: 2px solid #000;
+}
+
+.quire__secondary a, .quire__secondary button, .quire__secondary .button {
+  background-color: transparent;
 }
