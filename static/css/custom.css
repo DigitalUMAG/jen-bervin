@@ -1,5 +1,17 @@
 .quire-cover__hero {
-  background-color: rgb(2, 126, 215);
-  background-image: -webkit-gradient(linear, left top, right top, from(#6A8EB8), to(#CF4747));
-  background-image: linear-gradient(90deg, rgb(2, 126, 215), #e39e4d);
+  background-color: rgba(192,192,192);
+  background-image: none;
+}
+
+#site-menu  {
+  background-color: rgba(192,192,192);
+  background-image: url('../img/silk_poem_strand.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  border-left: 2px solid #000;
+}
+
+.quire__secondary a, .quire__secondary button, .quire__secondary .button {
+  background-color: transparent;
 }

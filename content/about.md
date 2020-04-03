@@ -1,20 +1,12 @@
 ---
 title: About
-weight: 203
+weight: 100
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+Silk Poems began as a six-year research project developed with expertise from more than thirty international textile archives, medical libraries, nanotechnology and biomedical labs, and sericulture sites. Jen Bervin first visited the Bioengineering Department at Tufts in 2010, where David Kaplan and Fiorenzo Omenetto were working on a new form of the material—reverse-engineered liquefied silk. Among the research outputs from the Tufts group has been a silk biosensor etched nanoscale on clear silk film that can be implanted in the body to provide diagnostic readings.  
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own. 
+Using this research as a springboard, Bervin started to write a poem to be inscribed on a silk biosensor. The poem acts as a talisman, written from the perspective of the silkworm, addressed to the person with the biosensor implanted in their body. From this evolved the first few elements of the Silk Poems project—an etched version of the poem viewed through a microscope, Charlotte Lagarde’s short film and book published by Nightboat Books.
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+The inaugural display of work related to Bervin’s Silk Poems was as part of a group show at MASS MoCA (May 2016–April 2017). The solo exhibition of Silk Poems at UMAG (November 2019–February 2020) was staged as part of the 10th anniversary celebration of the IPNHK literary festival.
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
-
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
-
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+The online publication of Silk Poems was designed by Darcy Christ in the Getty's Quire platform. UMAG gratefully acknowledges the generous support of the U.S. Consulate General Hong Kong and Macau for funding the Silk Poems exhibition at UMAG and in this digital environment. Follow this link to explore more of [UMAG's digital world](https://www.umag.hku.hk/).

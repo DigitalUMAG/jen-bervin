@@ -15,10 +15,9 @@ reading_line:
 short_title:
 
 description:
-  one_line:
+  one_line: Exhibition at HKU 15.11.2019 – 12.01.2020
   full: >-
-    Quire is a digital publishing framework built on top of the Hugo static site
-    generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files.
+    Exhibition at HKU 15.11.2019 – 12.01.2020
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -35,33 +34,65 @@ publisher:
   - name: University Museum and Gallery, University of Hong Kong
     location: Hong Kong
     url:
-    logo: umag-logo.png
+    logo: contributors/HKUMAG_logo.png
 
 # ------------------------------------------------------------------------------
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: UMAG
 
 contributor:
-  - id: jkeller
+  - id: Jen_Bervin
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    pic: contributors/judith-keller.jpg
-  - id:
-    type:
-    first_name:
-    last_name:
-    title:
+    first_name: Jen
+    last_name: Bervin
+    title: Poet & Visual Artist
     affiliation:
-    bio:
-    url:
-    pic:
+    bio: "Poet and visual artist - Jen Bervin’s multidisciplinary work results from research and collaboration with artists and specialists ranging from&nbsp;literary scholars to&nbsp;material scientists to&nbsp;activate&nbsp;the intersections of art and scholarship, text and textiles,&nbsp;science, technology, and craft in&nbsp;works that&nbsp;range&nbsp;from poems written nanoscale to large-scale museum installations.&nbsp;&nbsp;"
+    url: http://jenbervin.com/
+    pic: contributors/jen-bervin.jpg
+    file_as: 1
+  - id: Charlotte_Lagarde
+    type: secondary
+    first_name: Charlotte
+    last_name: Lagarde
+    bio: "Filmaker and Visual Artist"
+    url: https://www.charlottelagarde.com/
+    pic: contributors/C_Lagarde.jpg
+    file_as: 2
+  - id: Christopher_Mattison
+    type: secondary
+    first_name: Christopher
+    last_name: Mattison
+    bio: "UMAG Curator"
+    file_as: 3
+  - id: Darcy_Christ
+    type: secondary
+    first_name: Darcy
+    last_name: Christ
+    bio: "Information Architect and Web Developer"
+    url: https://aporia.info
+    file_as: 4
+  - id: Rae_Hong
+    type: secondary
+    first_name: Rae
+    last_name: Hong
+    file_as: 5
+  - id: Kikki_Lam
+    type: secondary
+    first_name: Kikki
+    last_name: Lam
+    file_as: 6
+  - id: umag
+    type: organiser
+    full_name: University Museum and Gallery, HKU
+    pic: contributors/HKUMAG_logo.png
+  - id: uscg
+    type: supporter
+    full_name: US Consulate General Hong Kong and Macau
+    pic: contributors/US_consulate_logo.png
+
 
 # ------------------------------------------------------------------------------
 # Copright & License
