@@ -1,39 +1,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/</loc>
+    <loc>//localhost:51136/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/contents/</loc>
+    <loc>//localhost:51136/contents/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/silk_poems/</loc>
+    <loc>//localhost:51136/silk_poems/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/poetry_at_nanoscale/</loc>
+    <loc>//localhost:51136/poetry_at_nanoscale/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/sericulture/</loc>
+    <loc>//localhost:51136/sericulture/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/excerpts/</loc>
+    <loc>//localhost:51136/excerpts/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/exhibition_photos/</loc>
+    <loc>//localhost:51136/exhibition_photos/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/about/</loc>
+    <loc>//localhost:51136/about/</loc>
   </url>
   
   <url>
-    <loc>https://1000camels.github.io/jen-bervin/contributors/</loc>
+    <loc>//localhost:51136/contributors/</loc>
   </url>
   
 </urlset>
