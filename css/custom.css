@@ -3,6 +3,11 @@
   background-image: none;
 }
 
+
+#fig_7_Silk_script, #fig_8_Silk_script {
+  width: 50% !important;
+}
+
 .quire-page__content .container .content {
     margin-top: 0px;
 }
