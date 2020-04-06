@@ -16,4 +16,4 @@ Silkworm (Bombyx mori) caterpillars feed exclusively on mulberry leaves (Morus) 
 
 Silk as a traditional medium for writing dates back to at least the seventh century BCE, while references in the Confucian Analects and other Zhou dynasty works suggest an even earlier origin for texts written on silk. Oracle bone script on Shang dynasty turtle plastrons and ceremonial bones often include inscriptions for a core group of animals and goods, such as silk, silkworm, book and writing brush. 
 
-{{< q-figure-group grid="2" id="7_Silk_script, 8_Silk_script" caption="Oracle bone inscriptions for Silk and Silkworm based on the work of Sinologist Herrlee G Creel" >}}
+{{< q-figure-group grid="2" id="fig_7_Silk_script, fig_8_Silk_script" caption="Oracle bone inscriptions for Silk and Silkworm based on the work of Sinologist Herrlee G Creel" >}}

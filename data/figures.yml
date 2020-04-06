@@ -23,11 +23,11 @@ figure_list:
     src: figures/6_Silkworms_eating.png
     caption: "Silkworms feeding on mulberry leaves"
     credit: ""
-  - id: "7_Silk_script"
+  - id: "fig_7_Silk_script"
     src: figures/7_Silk_script.png
     caption: "Oracle bone inscriptions for Silk and Silkworm based on the work of Sinologist Herrlee G Creel"
     credit: ""
-  - id: "8_Silk_script"
+  - id: "fig_8_Silk_script"
     src: figures/8_Silk_script.png
     caption: "Oracle bone inscriptions for Silk and Silkworm based on the work of Sinologist Herrlee G Creel"
     credit: ""

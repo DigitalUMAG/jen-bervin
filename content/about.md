@@ -3,6 +3,6 @@ title: About
 weight: 100
 ---
 
-The inaugural display of work related to Bervin’s *Silk Poems* was as part of a group show at MASS MoCA (May 2016–April 2017). The solo exhibition of *Silk Poems* at UMAG (November 2019–February 2020) was staged as part of the 10th anniversary celebration of the IPNHK literary festival.
+*Silk Poems* is the first volume in UMAG's Digital Chapbook series. The publication was designed by Darcy Christ using [Quire](https://gettypubs.github.io/quire/), the Getty's open-source platform. Quire is a multi-format publishing tool that can be used to create traditional and enhanced books from a single set of plain-text files.
 
-The online publication of *Silk Poems* was designed by Darcy Christ in the Getty's Quire platform. UMAG gratefully acknowledges the generous support of the U.S. Consulate General Hong Kong and Macau for funding the *Silk Poems* exhibition at UMAG and in this digital environment. Follow this link to explore more of [UMAG's digital world](https://www.umag.hku.hk/).
+UMAG gratefully acknowledges the generous support of the U.S. Consulate General Hong Kong and Macau for funding the Silk Poems exhibition at UMAG and in this digital format. Further thanks are due to the IPNHK festival for helping to sponsor and host Jen Bervin and Charlotte Lagarde. Please follow this [link](https://www.umag.hku.hk/en/) to explore more of UMAG's online content.
