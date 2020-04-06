@@ -12,9 +12,9 @@ Silk’s cultural history spans more than 5,000 years. Examples of sericulture a
 
 Beyond silk’s traditional use in textiles and as a valuable trade commodity, biomedical researchers are now experimenting with the material in novel forms of technology; since silk is compatible with human tissue, the immune system can accept silk on surfaces as sensitive as the human brain.
 
-In the UMAG exhibition Silk Poems, visual artist and author Jen Bervin has merged the medium’s traditional applications with cutting edge research—engaging with silk’s cultural, scientific and linguistic complexities.
+In the UMAG exhibition *Silk Poems*, visual artist and author Jen Bervin has merged the medium’s traditional applications with cutting edge research—engaging with silk’s cultural, scientific and linguistic complexities.
 
-UMAG gratefully acknowledges Creative Capital and the U.S. Consulate General Hong Kong and Macau for their generous support of Ms Bervin and the Silk Poems project.
+UMAG gratefully acknowledges Creative Capital and the U.S. Consulate General Hong Kong and Macau for their generous support of Ms Bervin and the *Silk Poems* project.
 
 
 Organised by
