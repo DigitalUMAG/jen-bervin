@@ -47,4 +47,5 @@ PARALLEL
 ROUTE
 線路
 
-[Silk_Poems_mov]
+
+{{< q-figure id="Silk_Poems_Video" >}}

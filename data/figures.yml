@@ -31,11 +31,15 @@ figure_list:
     src: figures/8_Silk_script.png
     caption: "Oracle bone inscriptions for Silk and Silkworm based on the work of Sinologist Herrlee G Creel"
     credit: ""
-  - id: "Silk_Poems_Video"
+  - id: "Silk_Poems_Documentary"
     src: "figures/2_Bervin_Two_Silks.png"
-    caption: "Jen Bervin’s Silk Poems - Video by Charlotte Lagarde - 10 minutes, 2016"
-    media_id: 187955041
-    media_type: vimeo
+    caption: "Jen Bervin’s Silk Poems -  Video by Charlotte Lagarde - 10 minutes, 2016"
+    media_id: JEbr2GTnNks
+    media_type: youtube
+  - id: "Silk_Poems_Video"
+    caption: "Poem with Chinese translation"
+    media_id: EaQ5LriNaCc
+    media_type: youtube
   - id: "US_consulate_logo"
     src: figures/US_consulate_logo.png
   - id: "HKUMAG_logo"

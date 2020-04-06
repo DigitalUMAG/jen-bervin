@@ -16,4 +16,4 @@ Using this research as a springboard, Bervin started to write a poem to be inscr
 
 The inaugural display of work related to Bervin’s Silk Poems was as part of a group show at MASS MoCA (May 2016–April 2017). The solo exhibition of Silk Poems at UMAG (November 2019–February 2020) was staged as part of the 10th anniversary celebration of the IPNHK literary festival.
 
-{{< q-figure id="Silk_Poems_Video" >}}
+{{< q-figure id="Silk_Poems_Documentary" >}}
