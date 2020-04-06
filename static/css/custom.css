@@ -19,3 +19,10 @@
 .quire__secondary a, .quire__secondary button, .quire__secondary .button {
   background-color: transparent;
 }
+
+/* .material-fullscreen {
+  display: none;
+}
+.material-fullscreen:after {
+  content: 'arrow_upward' !important;
+} */
