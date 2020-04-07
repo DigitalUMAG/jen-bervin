@@ -25,6 +25,23 @@
   background-color: transparent;
 }
 
+
+.quire-cover .quire-contributors-list {
+  float: left;
+  padding: 20px;
+  width: 50%;
+}
+.quire-cover .quire-contents-buttons {
+  clear: both;
+}
+.quire-cover .quire-contributor__pic {
+  width: 140px;
+}
+
+.quire-contributor__pic {
+  border-radius: 0;
+}
+
 /* .material-fullscreen {
   display: none;
 }
