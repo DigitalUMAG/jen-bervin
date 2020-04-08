@@ -86,11 +86,11 @@ contributor:
     file_as: 6
   - id: umag
     type: organiser
-    full_name: University Museum and Gallery, HKU
+    full_name: "Organised by"
     pic: contributors/HKUMAG_logo.png
   - id: uscg
     type: supporter
-    full_name: US Consulate General Hong Kong and Macau
+    full_name: "Supported by"
     pic: contributors/US_consulate_logo.png
 
 

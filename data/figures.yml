@@ -41,6 +41,8 @@ figure_list:
     media_id: EaQ5LriNaCc
     media_type: youtube
   - id: "US_consulate_logo"
-    src: figures/US_consulate_logo.png
+    src: "contributors/US_consulate_logo.png"
+    caption: "US Consulate"
   - id: "HKUMAG_logo"
-    src: figures/HKUMAG_logo.png
+    src: "contributors/HKUMAG_logo.png"
+    caption: "HKU Museum and Gallery"

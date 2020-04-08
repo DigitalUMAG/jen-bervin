@@ -17,9 +17,6 @@ In the UMAG exhibition *Silk Poems*, visual artist and author Jen Bervin has mer
 UMAG gratefully acknowledges Creative Capital and the U.S. Consulate General Hong Kong and Macau for their generous support of Ms Bervin and the *Silk Poems* project.
 
 
-Organised by
 {{< q-contributor range="organiser" format="bio" align="left" >}}
 
-
-Supported by
 {{< q-contributor range="supporter" format="bio" align="right" >}}
