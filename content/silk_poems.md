@@ -1,6 +1,6 @@
 ---
 label: I
-title: Jen Bervin’s Silk Poems
+title: Jen Bervin’s *Silk Poems*
 subtitle:
 weight: 30
 type: essay

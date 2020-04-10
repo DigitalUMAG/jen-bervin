@@ -31,7 +31,7 @@ identifier:
   isbn:
 
 publisher:
-  - name: University Museum and Gallery, University of Hong Kong
+  - name: University Museum and Art Gallery, University of Hong Kong
     location: Hong Kong
     url:
     logo: contributors/HKUMAG_logo.png
@@ -98,7 +98,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2020 University Museum and Gallery, University of Hong Kong
+copyright: © 2020 University Museum and Art Gallery, University of Hong Kong
 
 license:
   name: Creative Commons Attribution 4.0 International License

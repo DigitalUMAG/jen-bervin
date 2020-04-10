@@ -1,6 +1,6 @@
 ---
 label: IV
-title: Excerpts from the book Silk Poems
+title: Excerpts from the book *Silk Poems*
 subtitle:
 weight: 60
 type: essay
