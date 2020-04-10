@@ -8,6 +8,17 @@
   background-image: none;
 }
 
+.quire-cover__overlay {
+  left: -40px;
+}
+
+.quire:not(.no-js) .quire__secondary.is-expanded {
+    width: calc(372px - 2em);
+}
+.quire:not(.no-js) .quire__secondary.is-expanded+.quire__primary {
+    -webkit-transform: translate3d(calc(-372px + 2em), 0, 0);
+    transform: translate3d(calc(-372px + 2em), 0, 0);
+}
 
 #fig_7_Silk_script, #fig_8_Silk_script {
   width: 50% !important;
