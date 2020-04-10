@@ -1,3 +1,8 @@
+/* .quire-cover .quire-page__content .container.is-fluid {
+    max-width: 1200px;
+    width: 1200px;
+} */
+
 .quire-cover__hero {
   background-color: rgba(192,192,192);
   background-image: none;
@@ -40,6 +45,33 @@
 
 .quire-contributor__pic {
   border-radius: 0;
+}
+
+.cover-colophon {
+    background-color: #ddd;
+    font-weight: 400;
+    padding-bottom: 1.5em;
+    padding-top: 1.5em;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+}
+.cover-colophon-inner {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 0.7em;
+}
+.colophon-text {
+    float: left;
+    margin-left: 1.4em;
+}
+.colophon-logo {
+    float: right;
+    margin-right: 1.4em;
+    padding-top: 1.4em;
 }
 
 /* .material-fullscreen {
