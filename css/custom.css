@@ -68,6 +68,9 @@
     float: left;
     margin-left: 1.4em;
 }
+.colophon-links {
+    padding: 1em 1em;
+}
 .colophon-logo {
     float: right;
     margin-right: 1.4em;
