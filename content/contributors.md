@@ -4,5 +4,33 @@ weight: 201
 type: page
 ---
 
-{{< q-contributor range="primary" format="bio" >}}
-{{< q-contributor range="secondary" format="bio" >}}
+
+{{< q-figure id="Jen_Bervin_photo" grid="2" class="is-pulled-left" >}}
+#### [Jen Bervin](http://jenbervin.com/)
+Created in collaboration with artists and specialists ranging from material scientists to literary scholars, Bervin’s intricate, intimate, often laborious work ranges in scale from poems written nanoscale in liquefied silk to large-scale museum installations. Her multidisciplinary, research-driven practice activates the intersections of text and textiles, art, poetry, and scholarship, science, technology and craft.
+
+Bervin’s work has been the subject of solo exhibitions at The University of Hong Kong, Des Moines Art Center, and Brown University; an upcoming survey exhibition of her interdisciplinary work at University Galleries of Illinois State University is supported by grants from the National Endowment for the Arts and the Andy Warhol Foundation for the Visual Arts. Bervin’s work has been featured at the Walker Art Center, MASS MoCA, John Michael Kohler Art Center, Center for Craft, Creativity and Design, The Power Plant, Toronto, Ian Potter Museum of Art, Melbourne, and can be found in thirty international collections including The J. Paul Getty Museum.
+
+Her artist book and trade publications often combine textiles and poetry, including Silk Poems, a Lambda Literary Award finalist and New Museum Book of the Year, and Gorgeous Nothings: Emily Dickinson’s Envelope Poems, with Marta Werner and Susan Howe. Bervin’s work has been recognized by Creative Capital, Rauschenberg Residency, New York Foundation for the Arts, and others. She is an Artist in Residence with SETI Institute, a program that facilitates an exchange of ideas between artists and scientists to explore, understand, and explain the origin, nature, and prevalence of life in the universe.
+
+{{< q-figure id="C_Lagarde_photo" class="is-pulled-left" >}}
+#### [Charlotte Lagarde](https://www.charlottelagarde.com/)
+Born in France, Charlotte Lagarde is a filmmaker whose work has aired on PBS, the Sundance Channel, HBO, and has been exhibited at MASS MoCA. She is a Sundance, BAVC and Camargo Foundation fellow. Her latest project *Colonial White*, which is part of The Racial Imaginary Institute, was recently included in the exhibit Great Force at ICA-VCU.
+
+Lagarde studied documentary film at Stanford and has made over twenty films. *Heart of the Sea*, her feature-length documentary about the Hawaiian surfing legend Rell Sunn was broadcast in over 30 countries and has won numerous awards, including the PBS Independent Lens Audience Award and Best Documentary at the Ashland Independent Film Festival. Her most recent documentary *The Ballad of Fred Hersch* premiered at the Full Frame Film Festival.
+
+Lagarde's short film, [*Jen Bervin’s Silk Poems*](https://www.charlottelagarde.com/jen-bervin-s-silk-poems), premiered at the exhibition Explode Every Day: an Inquiry into the Phenomena of Wonder at MASS MoCA. Bervin and Lagarde are currently collaborating on a new project filmed in Suzhou, China, titled *Su Hui’s Reversible Poem*.
+​
+Her producing credits include Shaleece Haas’ *Real Boy*, Deann Borshay Liem’s *In the Matter of Cha Jung Hee* and Carrie Lozano’s Academy award-winning *Reporter Zero*, which premiered at the Berlin International Film Festival.
+
+
+#### Christopher Mattison
+Curator of UMAG’s Silk Poems exhibition, Mattison’s primary line of research hovers around the relationship of text and image in the museum environment. Apart from his curatorial work, Mattison is also UMAG’s publisher and series editor for a range of digital programming being developed in conjunction with the Getty’s Arches and Quire platforms.
+
+#### Rae Hong
+
+#### Kikki Lam
+Research Assistant in the Curatorial Department at UMAG, Lam received her B.A. and M.Phil. in Anthropology from The Chinese University of Hong Kong. Her current research focuses on Chinese silk textiles and Museum Anthropology, and she has been the translator of several exhibition catalogues related to East Asian arts and cultures.
+
+#### [Darcy Christ](https://aporia.info)
+Information Architect and Web Developer

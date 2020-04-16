@@ -46,3 +46,7 @@ figure_list:
   - id: "HKUMAG_logo"
     src: "contributors/HKUMAG_logo.png"
     caption: "HKU Museum and Gallery"
+  - id: "Jen_Bervin_photo"
+    src: "contributors/jen-bervin.jpg"
+  - id: "C_Lagarde_photo"
+    src: "contributors/C_Lagarde.jpg"
