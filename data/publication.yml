@@ -87,11 +87,15 @@ contributor:
   - id: umag
     type: organiser
     full_name: "Organised by"
-    pic: contributors/HKUMAG_logo.png
+    pic: "contributors/HKUMAG_logo.png"
   - id: uscg
     type: supporter
     full_name: "Supported by"
-    pic: contributors/US_consulate_logo.png
+    pic: "contributors/US_consulate_logo.png"
+  - id: IPNHK
+    type: supporter
+    full_name: "Supported by"
+    pic: "contributors/IPNHK-LOGO.png"
 
 
 # ------------------------------------------------------------------------------

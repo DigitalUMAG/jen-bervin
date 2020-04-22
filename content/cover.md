@@ -16,7 +16,14 @@ In the [UMAG exhibition *Silk Poems*](https://www.umag.hku.hk/en/exhibition_deta
 
 UMAG gratefully acknowledges Creative Capital and the U.S. Consulate General Hong Kong and Macau for their generous support of Ms Bervin and the *Silk Poems* project.
 
-
-{{< q-contributor range="organiser" format="bio" align="left" >}}
-
-{{< q-contributor range="supporter" format="bio" align="right" >}}
+<div class="credits">
+  <div class="organiser">
+    <h4>Organised by</h4>
+    <img id="UMAG" class="" src="./img/contributors/HKUMAG_logo.png" alt="HKUMAG">
+  </div>
+  <div class="supporter">
+    <h4>Supported by</h4>
+    <img id="USGC" class="" src="./img/contributors/US_consulate_logo.png" alt="USGC">
+    <img id="IPNHK" class="" src="./img/contributors/IPNHK-LOGO.png" alt="IPNHK">
+  </div>
+</div>
