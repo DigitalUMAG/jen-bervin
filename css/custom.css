@@ -11,6 +11,9 @@
 .quire-cover__overlay {
   left: -40px;
 }
+.quire-cover .quire-page__content {
+    padding-bottom: 40px;
+}
 
 .quire:not(.no-js) .quire__secondary.is-expanded {
     width: calc(372px - 2em);
@@ -23,20 +26,32 @@
 .credits {
   display: flex;
 }
-.credits > div {
-  width: 50%;
+
+.credits img {
+  vertical-align: top;
+}
+.credits .organiser {
+  width: 40%;
+  padding: 20px;
+}
+.credits .supporter {
+  width: 60%;
   padding: 20px;
 }
 
 .credits .organiser img {
-  height: 70px;
+  height: 80px;
   width: auto;
   padding: 10px;
 }
-.credits .supporter img {
-  height: 100px;
+.credits .supporter img#USGC-logo {
+  height: 110px;
   width: auto;
-  padding: 10px;
+}
+.credits .supporter img#IPNHK-logo {
+  height: 130px;
+  width: auto;
+  padding-left: 40px;
 }
 
 
