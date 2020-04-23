@@ -23,7 +23,7 @@ UMAG gratefully acknowledges Creative Capital and the U.S. Consulate General Hon
   </div>
   <div class="supporter">
     <h4>Supported by</h4>
-    <img id="USGC" class="" src="./img/contributors/US_consulate_logo.png" alt="USGC">
-    <img id="IPNHK" class="" src="./img/contributors/IPNHK-LOGO.png" alt="IPNHK">
+    <img id="USGC-logo" class="" src="./img/contributors/US_consulate_logo.png" alt="USGC">
+    <img id="IPNHK-logo" class="" src="./img/contributors/IPNHK-LOGO.png" alt="IPNHK">
   </div>
 </div>

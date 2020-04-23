@@ -17,4 +17,4 @@ Chinese translation of excerpts from *Silk Poems* by Shelby Chan.
 
 
 
-The Silk Poems exhibition at UMAG was scheduled to coincide with the 10th anniversary of International Poetry Nights in Hong Kong ([IPNHK](http://ipnhk.com/)), an award-winning biennial poetry festival established by contemporary Chinese author Bei Dao. Gathering more than 50 world-renowned poets, musicians, translators and scholars, the IPNHK 2019 festival included poetry readings and lectures and musical performances under the theme of “Speech and Silence.” Events took place in Hong Kong and in ten different cities across China.
+The *Silk Poems* exhibition at UMAG was scheduled to coincide with the 10th anniversary of International Poetry Nights in Hong Kong ([IPNHK](http://ipnhk.com/)), an award-winning biennial poetry festival established by contemporary Chinese author Bei Dao. Gathering more than 50 world-renowned poets, musicians, translators and scholars, the IPNHK 2019 festival included poetry readings and lectures and musical performances under the theme of “Speech and Silence.” Events took place in Hong Kong and in ten different cities across China.
