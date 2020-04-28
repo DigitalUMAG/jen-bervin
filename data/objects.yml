@@ -5,3 +5,15 @@ object_display_order:
   - medium
   - location
 object_list:
+  - id: 1
+    title: Wall
+    figure:
+      - id: "Wall_2"
+  - id: 2
+    title: Wall
+    figure:
+      - id: "Wall_4"
+  - id: 3
+    title: Wall
+    figure:
+      - id: "Wall_5"
