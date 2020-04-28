@@ -55,6 +55,10 @@
   padding-left: 40px;
 }
 
+.section:focus {
+    outline: none !important;
+}
+
 
 #fig_7_Silk_script, #fig_8_Silk_script {
   width: 50% !important;
