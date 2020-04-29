@@ -40,6 +40,10 @@ figure_list:
     caption: "Poem with Chinese translation"
     media_id: EaQ5LriNaCc
     media_type: youtube
+  - id: "Reading_at_Poetry_Night"
+    caption: "Jen Bervin reading from Silk Poems at IPNHK 2019"
+    media_id: kUuo3Knh0hA
+    media_type: youtube
   - id: "USGC"
     src: "contributors/US_consulate_logo.png"
     caption: "US Consulate"
@@ -134,3 +138,42 @@ figure_list:
   - id: "Bonham_4"
     src: "figures/exhibition/Bonham_4.jpg"
     caption: "Bonham Road"
+  - id: Entrance_1
+    src: "figures/exhibition/Entrance_1.png"
+    caption: "Bilingual selections of *Silk Poems* projected onto a UMAG column"
+  - id: Entrance_2
+    src: "figures/exhibition/Entrance_2.png"
+    caption: "Translators Jennifer Feeley and Andrea Lingenfelter taking a break from the Poetry Nights festival to watch Charlotte Lagarde’s film"
+  - id: Entrance_3
+    src: "figures/exhibition/Entrance_3.png"
+    caption: "Digital language artist and theorist John Cayley reading a copy of *Silk Poems*"
+  - id: Events_1
+    src: "figures/exhibition/Events_1.png"
+    caption: "US Consulate cultural staff Adeline Fung and Serina Yuen with Charlotte Lagarde and Jen Bervin at Poetry Nights"
+  - id: Events_2
+    src: "figures/exhibition/Events_2.png"
+    caption: "Four Qing era silk works were selected from the permanent collection. These both complemented the exhibition and acted as a bridge to an upcoming show curated by UMAG researcher Kikki Lam on woven silk textiles."
+  - id: Events_3
+    src: "figures/exhibition/Events_3.png"
+    caption: "Drawing class with artist Philippe Charmes"
+  - id: Granary_1
+    src: "figures/exhibition/Granary_1.png"
+    caption: "Custom enclosure for Granary Books special edition of 7S or *Silk Poems*"
+  - id: Granary_2
+    src: "figures/exhibition/Granary_2.png"
+    caption: "*Silk Poems* strand and silk cocoon image printed on silk"
+  - id: Granary_3
+    src: "figures/exhibition/Granary_3.png"
+    caption: "Glass jar with Bombyx Mori silk cocoon and vials with silk skein, silk scroll and liquid silk"
+  - id: Open
+    src: "figures/exhibition/Open.png"
+    caption: ""
+  - id: Reference_1
+    src: "figures/exhibition/Reference_1.png"
+    caption: "Vitrine with preparatory materials, including liquefied silk prototypes, notebooks, and altered stones from an artist’s residency in Liguria"
+  - id: Reference_2
+    src: "figures/exhibition/Reference_2.png"
+    caption: "Liquified silk film prototypes from Tufts University"
+  - id: Reference_3
+    src: "figures/exhibition/Reference_3.png"
+    caption: "Notes and altered stones from Liguria residency"

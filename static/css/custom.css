@@ -128,7 +128,7 @@
     padding-top: 1.4em;
 }
 
-#exhibition_photos .quire-figure {
+#installation .quire-figure, #exhibition .quire-figure {
   border: none;
 }
 
