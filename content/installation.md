@@ -15,3 +15,13 @@ A relatively minimalist show at first glance, the development and installation o
 {{< q-figure-group grid="4" id="Monitor_1, Monitor_2, Monitor_3, Monitor_4" >}}
 
 {{< q-figure-group grid="4" id="Microcsope_1, Microcsope_2, Microcsope_3" >}}
+
+Ms Bervin and Lagarde couriered most of the exhibition items with them from their home studio in Connecticut, arriving a few days before the scheduled opening.
+
+{{< q-figure-group grid="4" id="Jen_unpacking_1, Jen_unpacking_2, Jen_unpacking_4" >}}
+
+{{< q-figure-group grid="4" id="Jen_Charlotte_1, Hanging_Silk, Steaming_Silk" >}}
+
+The morning after completing the installation, The University of Hong Kong was locked down. A segment of the protest movement had shifted focus to HKU, barricading the university’s entrances and blocking the main road in front of the Museum. Elsewhere in Hong Kong, approximately 100 protesters remained barricaded inside Polytechnic University (PolyU) for the fourth consecutive day.
+
+{{< q-figure-group grid="4" id="Bonham_2, Bonham_3, Bonham_4" >}}
