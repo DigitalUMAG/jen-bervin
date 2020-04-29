@@ -6,8 +6,10 @@ weight: 80
 type: essay
 class: page-one
 abstract:
-image: figures/exhibition/Open.png
+#image: figures/exhibition/Open.png
 ---
+
+{{< q-figure-group id="Open" >}}
 
 The first iteration of the *Silk Poems* show at Mass MoCA included three elements—the nanoimprinted poem viewed through a microscope, a copy of the *Silk Poems* book and Charlotte Lagarde’s film. For the UMAG exhibition, we expanded the show’s initial framework by adding material produced for the Poetry Nights festival, as well as material that was generated while developing the original project with researchers at Tufts University.
 
@@ -17,13 +19,13 @@ When first entering the Fung Ping Shan gallery, visitors were greeted by a proje
 
 <hr/>
 
-The vitrine to the left of the microscope showcasing the Granary Books special edition of *7S* or *Silk Poems*, a boxed edition of 100 that elaborates upon the research and writings that informed the exhibition.
+The vitrine to the left of the microscope showcases the Granary Books special edition of *7S* or *Silk Poems*, a boxed edition of 100 that elaborates upon the research and writings that informed the exhibition.
 
 {{< q-figure-group grid="4" id="Granary_1,Granary_2,Granary_3" >}}
 
 <hr/>
 
-The vitrine to the right of the microscope containing reference materials developed during the artist’s research at Tufts and notes pertaining to the exhibition’s development.
+The vitrine to the right of the microscope contains reference materials developed during the artist’s research at Tufts and notes pertaining to the exhibition’s development.
 
 {{< q-figure-group grid="4" id="Reference_1,Reference_2,Reference_3" >}}
 

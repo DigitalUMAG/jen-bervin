@@ -161,10 +161,10 @@ figure_list:
     caption: "Custom enclosure for Granary Books special edition of 7S or *Silk Poems*"
   - id: Granary_2
     src: "figures/exhibition/Granary_2.png"
-    caption: "*Silk Poems* strand and silk cocoon image printed on silk"
+    caption: "Glass jar with Bombyx Mori silk cocoon and vials with silk skein, silk scroll and liquid silk"
   - id: Granary_3
     src: "figures/exhibition/Granary_3.png"
-    caption: "Glass jar with Bombyx Mori silk cocoon and vials with silk skein, silk scroll and liquid silk"
+    caption: "*Silk Poems* strand and silk cocoon image printed on silk"
   - id: Open
     src: "figures/exhibition/Open.png"
     caption: ""
