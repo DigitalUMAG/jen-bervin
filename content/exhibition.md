@@ -17,7 +17,7 @@ When first entering the Fung Ping Shan gallery, visitors were greeted by a proje
 
 <hr/>
 
-The vitrine to the left of the microscope showcasing the Granary Books special edition of 7S or *Silk Poems*, a boxed edition of 100 that elaborates upon the research and writings that informed the exhibition.
+The vitrine to the left of the microscope showcasing the Granary Books special edition of *7S* or *Silk Poems*, a boxed edition of 100 that elaborates upon the research and writings that informed the exhibition.
 
 {{< q-figure-group grid="4" id="Granary_1,Granary_2,Granary_3" >}}
 
