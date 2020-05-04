@@ -11,8 +11,6 @@ Created in collaboration with artists and specialists ranging from material scie
 
 Bervin’s work has been the subject of solo exhibitions at The University of Hong Kong, Des Moines Art Center, and Brown University; an upcoming survey exhibition of her interdisciplinary work at University Galleries of Illinois State University is supported by grants from the National Endowment for the Arts and the Andy Warhol Foundation for the Visual Arts. Bervin’s work has been featured at the Walker Art Center, MASS MoCA, John Michael Kohler Art Center, Center for Craft, Creativity and Design, The Power Plant, Toronto, Ian Potter Museum of Art, Melbourne, and can be found in thirty international collections including The J. Paul Getty Museum.
 
-Her multidisciplinary, research-driven practice activates the intersections of text and textiles, art, poetry, scholarship, technology and craft.
-
 {{< q-figure id="C_Lagarde_photo" class="is-pulled-left" >}}
 #### [Charlotte Lagarde](https://www.charlottelagarde.com/)
 Born in France, Charlotte Lagarde is a filmmaker whose work has aired on PBS, the Sundance Channel, HBO, and has been exhibited at MASS MoCA. She is a Sundance, BAVC and Camargo Foundation fellow. Her latest project *Colonial White*, which is part of The Racial Imaginary Institute, was recently included in the exhibit Great Force at ICA-VCU.
