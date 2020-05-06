@@ -104,11 +104,11 @@ contributor:
 
 copyright: © 2020 The University Museum and Art Gallery, The University of Hong Kong
 
-license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+# license:
+#   name: Creative Commons Attribution 4.0 International License
+#   abbreviation: CC BY
+#   url: https://creativecommons.org/licenses/by/4.0/
+#   scope: full # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links

@@ -33,7 +33,7 @@ figure_list:
     credit: ""
   - id: "Silk_Poems_Documentary"
     src: "figures/2_Bervin_Two_Silks.png"
-    caption: "Jen Bervin’s Silk Poems -  Video by Charlotte Lagarde - 10 minutes, 2016"
+    caption: "Jen Bervin’s *Silk Poems* -  Video by Charlotte Lagarde - 10 minutes, 2016"
     media_id: JEbr2GTnNks
     media_type: youtube
   - id: "Silk_Poems_Video"
@@ -41,7 +41,7 @@ figure_list:
     media_id: EaQ5LriNaCc
     media_type: youtube
   - id: "Reading_at_Poetry_Night"
-    caption: "Jen Bervin reading from Silk Poems at IPNHK 2019"
+    caption: "Jen Bervin reading from *Silk Poems* at IPNHK 2019"
     media_id: kUuo3Knh0hA
     media_type: youtube
   - id: "USGC"
@@ -68,7 +68,7 @@ figure_list:
     caption: "Intro wall after two coats of silver paint and a final clear protective layer to assist with the application of the intro text and image"
   - id: "Wall_4"
     src: "figures/exhibition/Wall_4.png"
-    caption: "Museum Store Manager Chung Ma supervising installation of the text and image to the intro wall"
+    caption: "Museum Store Manager Chung Ma supervising installation of the intro text and image"
   - id: "Wall_5"
     src: "figures/exhibition/Wall_5.png"
     caption: "Finished intro wall seen through exhibition clutter"
@@ -80,13 +80,13 @@ figure_list:
     caption: "Collections Manager Edward Zhou setting the horizontal line for the monitor"
   - id: "Monitor_2"
     src: "figures/exhibition/Monitor_2.png"
-    caption: "Edward, Chung and Museum Assistant Hoi Kei Wong finishing the installation of the monitor for the Silk Poems video"
+    caption: "Edward, Chung and Museum Assistant Hoi Kei Wong finishing the installation of the monitor for the *Silk Poems* video"
   - id: "Monitor_3"
     src: "figures/exhibition/Monitor_3.png"
     caption: "Kei and Sam working on wiring for the monitor and microscope"
   - id: "Monitor_4"
     src: "figures/exhibition/Monitor_4.png"
-    caption: "Jen Bervin with UMAG staff"
+    caption: "Jen Bervin onscreen with UMAG staff"
   - id: "Microcsope_1"
     src: "figures/exhibition/Microcsope_1.png"
     caption: "UMAG designer Stephy Tsui assisting with selecting a pedestal for the microscope"
@@ -101,13 +101,13 @@ figure_list:
     caption: "Jen Bervin checking the nanoimprinted silk poem"
   - id: "Jen_unpacking_2"
     src: "figures/exhibition/Jen_Unpacking_2.png"
-    caption: "Jen Bervin checking the Granary Press special edition of Silk Poems"
+    caption: "Jen Bervin unpacking her Granary Books edition of *Silk Poems*, titled *7S* ([Seven Silks](https://www.granarybooks.com/book/1195/Jen_Bervin+7S/))"
   - id: "Jen_unpacking_3"
     src: "figures/exhibition/Jen-Unpacking_3.png"
     caption: "Unpacking exhibition items"
   - id: "Jen_unpacking_4"
     src: "figures/exhibition/Jen_Unpacking_4.png"
-    caption: "Custom enclosure for the Granary Press special edition of Silk Poems"
+    caption: "Custom enclosure for Jen Bervin’s *7S* ([Seven Silks](https://www.granarybooks.com/book/1195/Jen_Bervin+7S/))"
   - id: "Jen_Sam"
     src: "figures/exhibition/Jen_Sam.png"
     caption: "Jen Bervin and Sam discuss vitrine placement"
@@ -158,10 +158,10 @@ figure_list:
     caption: "Drawing class with artist Philippe Charmes"
   - id: Granary_1
     src: "figures/exhibition/Granary_1.png"
-    caption: "Custom enclosure for Granary Books special edition of 7S or *Silk Poems*"
+    caption: "Custom enclosure for Granary Books special edition of [*7S* (Seven Silks)](https://www.granarybooks.com/book/1195/Jen_Bervin+7S/)"
   - id: Granary_2
     src: "figures/exhibition/Granary_2.png"
-    caption: "Glass jar with Bombyx Mori silk cocoon and vials with silk skein, silk scroll and liquid silk"
+    caption: "Glass jar with Bombyx Mori silk cocoon and vials with silk skein, silk scroll and liquid silk from [*7S* (Seven Silks)](https://www.granarybooks.com/book/1195/Jen_Bervin+7S/)"
   - id: Granary_3
     src: "figures/exhibition/Granary_3.png"
     caption: "*Silk Poems* strand and silk cocoon image printed on silk"
@@ -173,7 +173,7 @@ figure_list:
     caption: "Vitrine with preparatory materials, including liquefied silk prototypes, notebooks, and altered stones from an artist’s residency in Liguria"
   - id: Reference_2
     src: "figures/exhibition/Reference_2.png"
-    caption: "Liquified silk film prototypes from Tufts University"
+    caption: "Liquified silk film prototypes from Tufts University’s Silk Lab; nanofabrication prototypes from Stanford University"
   - id: Reference_3
     src: "figures/exhibition/Reference_3.png"
-    caption: "Notes and altered stones from Liguria residency"
+    caption: "Manuscript materials and stones altered by the artist"

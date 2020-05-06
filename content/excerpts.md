@@ -8,7 +8,7 @@ class: page-one
 abstract:
 ---
 
-Jen Bervin’s book *Silk Poems* was originally published by [Nightboat](https://nightboat.org/) Books in 2017. The cycle of poems is written from the perspective of a silkworm, exploring the cultural, scientific, and linguistic complexities of silk written inside the human body. A selection of poetry from the book was translated into Chinese for the IPNHK festival in November 2019.
+Jen Bervin’s book *Silk Poems* was originally published by [Nightboat](https://nightboat.org/book/silk-poems/) Books in 2017. The cycle of poems is written from the perspective of a silkworm, exploring the cultural, scientific, and linguistic complexities of silk written inside the human body. A selection of poetry from the book was translated into Chinese for the IPNHK festival in November 2019.
 
 {{< q-figure id="Silk_Poems_Video" caption="Chinese translation of excerpts from *Silk Poems* by Shelby Chan">}}
 

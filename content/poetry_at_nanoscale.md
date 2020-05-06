@@ -20,4 +20,4 @@ Bervin’s poem is modeled on silk at the DNA level—the six-character repeat o
 
 {{< q-figure id="5_Silk_Cocoon" >}}
 
-Ongoing research includes scientists dating the genetic split between domestic silkworms and their wild cousins (Bombyx mandarina), as well as a focus on altering the genetic code of silkworms to create fibers from cocoons that can be woven into a material stronger than steel and more flexible than Kevlar. Other recent innovations involve developing materials from silk fibers that are naturally antimicrobial, and the fabrication of silk screws for stabilizing broken bones.
+ Contemporary silk research includes scientists dating the genetic split between domestic silkworms and their wild cousins (Bombyx mandarina), as well as a focus on altering the genetic code of silkworms to create fibers from cocoons that can be woven into a material stronger than steel and more flexible than Kevlar. Other recent innovations involve developing materials from silk fibers that are naturally antimicrobial, and the fabrication of silk screws for stabilizing broken bones.
