@@ -133,6 +133,25 @@
 }
 
 
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+.video-caption {
+  font-size: smaller;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
 @font-face {
   font-family: "IBM Plex Sans Condensed";
   src: url("/jen-bervin/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.eot");
