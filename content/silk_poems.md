@@ -16,8 +16,12 @@ Using this research as a springboard, Bervin started to write a poem to be inscr
 
 The inaugural display of work related to Bervin’s *Silk Poems* was as part of a group show at [MASS MoCA](https://massmoca.org/event/explode-every-day-an-inquiry-into-the-phenomena-of-wonder/?id=1045) (May 2016–April 2017). The solo exhibition of *Silk Poems* at [UMAG](https://www.umag.hku.hk/en/exhibition_detail.php?id=1642023) (November 2019–February 2020) was scheduled to coincide with the 10th anniversary celebration of the [IPNHK](https://ipnhk.org/) literary festival.
 
-{{< q-figure id="Silk_Poems_Documentary" >}}
-Video component of *Silk Poems* by Jen Bervin. A poem written nanoscale in the form of a silk biosensor, the Silk Poems takes this ancient textile material silk as subject and form, exploring the cultural, scientific, and linguistic complexities of silk imagined inside the body. The project has three components:
+<div class="video-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JEbr2GTnNks? autoplay=1&loop=1&playlist= JEbr2GTnNks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="video-caption">Jen Bervin’s Silk Poems -  Video by Charlotte Lagarde - 10 minutes, 2016</div>
+
+A poem written nanoscale in the form of a silk biosensor, the *Silk Poems* project takes this ancient textile material as both subject and form, exploring the cultural, scientific, and linguistic complexities of silk imagined inside the body. The project has three components:
 - nanoimprinted poem on silk film (fabricated at Tufts University’s Silk Lab) through a microscope
 - reading version of the poem
-- video on the Silk Poems research by Charlotte Lagarde
+- video on *Silk Poems* research by Charlotte Lagarde
