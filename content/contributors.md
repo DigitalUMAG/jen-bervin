@@ -24,9 +24,6 @@ Her producing credits include Shaleece Haas’ *Real Boy*, Deann Borshay Liem’
 #### Christopher Mattison
 Curator of UMAG’s *Silk Poems* exhibition, Mattison’s primary line of research hovers around the relationship of text and image in the museum environment. Apart from his curatorial work, Mattison is UMAG’s publisher and series editor for a range of digital programming being developed in conjunction with the Getty’s Arches and Quire platforms.
 
-#### [Darcy Christ](https://aporia.info)
-Darcy Christ is an Information Architect and Web Developer. His focus is on implementing content management systems that support the natural workflow of creators. He is deeply involved with WordPress and podcasting.
-
 #### Shelby Kar-yan Chan
 Shelby Kar-yan Chan is Associate Professor in the School of Translation, The Hang Seng University of Hong Kong. She is the author of *Identity and Theatre Translation in Hong Kong* (2015, Springer). Chan has also translated four plays from English to Cantonese for stage performances in Hong Kong. Currently she is translating Gao Xingjian’s monograph on drama into English.
 
