@@ -3,8 +3,9 @@ label: I
 title: Jen Bervin’s *Silk Poems*
 subtitle:
 weight: 30
-type: essay
+type: splash
 class: page-one
+image: figures/3_Silk_Film.png
 abstract:
 ---
 

@@ -2,3 +2,6 @@
 	path = themes/quire-starter-theme
 	url = https://github.com/gettypubs/quire-starter-theme.git
 	branch = master
+[submodule "themes/umaghku"]
+	path = themes/umaghku
+	url = https://github.com/DigitalUMAG/umaghku

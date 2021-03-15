@@ -11,6 +11,6 @@
 
 # Use these settings for GH Pages
 
-baseURL: "https://1000camels.github.io/jen-bervin/" # Needs trailing slash
+baseURL: "https://digitalpub.umag.hku.hk/jen-bervin/" # Needs trailing slash
 canonifyURLs: true
-relativeURLs: true
+relativeURLs: false
